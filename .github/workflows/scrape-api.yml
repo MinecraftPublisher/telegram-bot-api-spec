@@ -33,7 +33,7 @@ jobs:
         body: >
           This is an automated PR. Please check the diff, and the action logs, to check for any funky behaviour.
         branch: automated/bot-api-update
-        reviewers: PaulSonOfLars
-        assignees: PaulSonOfLars
+        reviewers: MinecraftPublisher
+        assignees: MinecraftPublisher
         labels: automated
-        delete-branch: true
+        delete-branch: false
